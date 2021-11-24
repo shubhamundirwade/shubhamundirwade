@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamundirwade
 - 👀 I’m interested in Data_Science and AI
-- 🌱 I’m currently learning same
+- 🌱 I’m currently learning Machine Learning and Data Science 
 
 
 <!---
